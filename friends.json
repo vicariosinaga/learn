@@ -1,4 +1,4 @@
 [
-	{"name": "Vandi", "age": "24", "isSpecial": "false"},
-	{"name": "Karin", "age": "24", "isSpecial": "true"}
+	{"name": "Vandi", "age": "24", "isSpecial": false},
+	{"name": "Karin", "age": "24", "isSpecial": true}
 ]
