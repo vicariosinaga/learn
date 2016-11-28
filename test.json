@@ -1,0 +1,10 @@
+[
+	{"name": "Vandi", "age": "24", "isSpecial": "false"},
+	{"name": "Karin", "age": "24", "isSpecial": "true"},
+  {"name": "Nirwan", "age": 27, "isSpecial": false},
+  {"name": "Risky", "age": 25, "isSpecial": false},
+  {"name": "Anton", "age": 25, "isSpecial": false},
+  {"name": "Maulvy", "age": 25, "isSpecial": false},
+  {"name": "abi", "age": 25, "isSpecial": false}
+]
+
